@@ -88,3 +88,9 @@ http://localhost:8501
   before installing/running.
 - **CSV not found error**: run `python generate_data.py` first, or check that
   `data/sales_data.csv` exists.
+
+## Proof of Execution
+<img width="1413" height="696" alt="Screenshot 2026-07-03 184239" src="https://github.com/user-attachments/assets/7f175513-0953-46ef-8a17-58366bc54332" />
+<img width="1920" height="944" alt="Screenshot 2026-07-03 184226" src="https://github.com/user-attachments/assets/f6b68572-2ed9-4353-93e7-44bc4d1142e4" />
+<img width="1469" height="634" alt="Screenshot 2026-07-03 184301" src="https://github.com/user-attachments/assets/8d74e4ae-ec8e-490a-b685-99f58e04f4fc" />
+<img width="1369" height="665" alt="Screenshot 2026-07-03 184251" src="https://github.com/user-attachments/assets/cc43c1fd-8209-4d0c-bf8b-77b2611d0fbb" />
