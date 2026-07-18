@@ -2,6 +2,11 @@
 
 An interactive sales analytics dashboard built with **Streamlit** and **Plotly**.
 
+## 🌐 Live Demo
+
+**Try the live application here:**
+https://sales-dashboard-bjnr85j5jvgdzjyqevkdyy.streamlit.app/
+
 ## Features
 - Revenue & Profit KPIs (plus Orders, Avg Order Value, Profit Margin)
 - Sales by Region (bar chart)
